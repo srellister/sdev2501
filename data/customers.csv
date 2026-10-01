@@ -1,0 +1,17 @@
+CustomerID,FirstName,LastName,Age,City,Email,Income,JoinDate
+101,Alex,Lee,29.0,Edmonton,alex.lee@email.com,62000.0,2025-01-15
+102,Sam,Patel,34.0, Calgary ,sam.patel@email.com,54000.0,2024-11-02
+103,Maria,Chen,41.0,Edmonton,maria.chen@email.com,78000.0,2023-06-18
+104,Jordan,Smith,,Calgary,jordan.smith@email.com,47000.0,2025-03-10
+105,Taylor,Brown,27.0,Edmonton,,51000.0,2025-05-21
+106,Chris,Wilson,52.0,Red Deer,chris.wilson@email.com,,2022-09-30
+107,Aisha,Khan,38.0,edmonton,aisha.khan@email.com,91000.0,2021-04-12
+108,Noah,Martin,45.0,Calgary,noah.martin@email.com,68000.0,2020-08-07
+109,Emma,Davis,31.0,Edmonton,emma.davis@email.com,59000.0,2024-02-25
+110,Liam,Garcia,26.0,Red Deer,liam.garcia@email.com,43000.0,2025-07-14
+111,Olivia,Wilson,36.0,Calgary,olivia.wilson@email.com,72000.0,2023-10-05
+112,Ethan,Brown,48.0,Edmonton,ethan.brown@email.com,83000.0,2022-12-19
+113,Sofia,Miller,24.0,Calgary,sofia.miller@email.com,39000.0,2025-08-11
+114,Daniel,Taylor,67.0,Edmonton,daniel.taylor@email.com,105000.0,2018-03-22
+115,Mia,Anderson,33.0,Red Deer,mia.anderson@email.com,57000.0,2024-06-09
+109,Emma,Davis,31.0,Edmonton,emma.davis@email.com,59000.0,2024-02-25
