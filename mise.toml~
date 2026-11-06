@@ -1,0 +1,18 @@
+[]
+python = "3.11"
+
+[env]
+PYTHONUNBUFFERED = "1"
+
+[tasks.setup]
+description = "Create virtual environment and install Jupyter, Pandas, and Seaborn"
+run = """
+python -m venv .venv
+.venv/Scripts/python -m pip install --upgrade pip
+.venv/Scripts/python -m pip install pandas seaborn matplotlib openpyxl jupyter
+echo "Virtual environment setup complete!"
+"""
+
+[tasks.jupyter]
+description = "Launch Jupyter Notebook inside the project environment"
+run = ".venv/Scripts/jupyter notebook"
